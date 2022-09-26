@@ -1,0 +1,16 @@
+.nav_bar{
+    display: flex;
+    background-color: cadetblue;
+    padding: 10px;
+    color: white;
+}
+
+.nav_bar span{
+    text-align: start;
+    width: 100%; 
+    letter-spacing: 2px;
+    font-size: 1.5rem;
+    color: white;
+    padding: 10px;
+    font-style: italic;
+}
